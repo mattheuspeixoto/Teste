@@ -1,0 +1,11 @@
+/home/mattheuspeixoto/Área de Trabalho/Teste/bin/Debug/netcoreapp2.2/Teste.deps.json
+/home/mattheuspeixoto/Área de Trabalho/Teste/bin/Debug/netcoreapp2.2/Teste.runtimeconfig.json
+/home/mattheuspeixoto/Área de Trabalho/Teste/bin/Debug/netcoreapp2.2/Teste.runtimeconfig.dev.json
+/home/mattheuspeixoto/Área de Trabalho/Teste/bin/Debug/netcoreapp2.2/Teste.dll
+/home/mattheuspeixoto/Área de Trabalho/Teste/bin/Debug/netcoreapp2.2/Teste.pdb
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.csprojAssemblyReference.cache
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.csproj.CoreCompileInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.AssemblyInfoInputs.cache
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.AssemblyInfo.cs
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.dll
+/home/mattheuspeixoto/Área de Trabalho/Teste/obj/Debug/netcoreapp2.2/Teste.pdb
